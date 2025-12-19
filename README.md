@@ -1,1 +1,3 @@
-# student-progress-tracker-system
+# student-progress-tracker-system 
+the student progress tracker system is a software application developed to track and manage students'academic performance efficiently.this project allows storing studentdetails ,monitoring attendence,recording marks,and analysing overall progress.
+the system helps education evaluate student performance,identify learning gaps,and provide timely feedback.students can view their progress reports,which encourages self-assessment and continous improvement.this project demonstrates the pratical use of programming concepts,data handling,and basic analytics in an educational domain.
